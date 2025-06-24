@@ -47,7 +47,6 @@ Este repositório contém a análise técnica desenvolvida para o case de Data A
 ##  Estrutura dos Arquivos
 
 - `Script_Teste_ifood.ipynb`: Notebook principal com todo o fluxo analítico
-- `dados/`: Pasta com os arquivos CSV e JSON utilizados
 - `imagens/`: Pasta com gráficos exportados
 - `relatorio_final.pdf`: Relatório visual para stakeholders
 - `README.md`: Este arquivo
